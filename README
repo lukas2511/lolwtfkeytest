@@ -1,0 +1,11 @@
+Usage: Don't.
+
+You maybe would like to change the path to your event-device in the script-thing.
+
+Also if you really really want to use it, you need both pygame and evdev modules/plugins/thingies for python.
+
+Run this as root or change event-device-permissions or something.
+
+Keyboard image source: http://de.wikipedia.org/wiki/Datei:Tastatur_de.png
+
+To change keyboard layout modify keyboard.png...
